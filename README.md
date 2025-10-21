@@ -12,6 +12,7 @@
     ```bash
     cd /path/to/your/typora-embed-images && uv run ./embed_images.py "${outputPath}"  "${currentFolder}"
     ```
+---
 1.  **Download the Script**
     Download the `embed_images.py` script to a permanent location on your computer.
 
